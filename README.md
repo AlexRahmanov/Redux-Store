@@ -28,12 +28,14 @@ This section reviews the web application's general appearance and functionality.
 
 The following animation shows how a user can register using the Signup page and then navigate to the Products page:
 
-![full stack resume1](https://user-images.githubusercontent.com/86209350/179861656-49185b0a-bfc8-40a4-a0f3-5146e819ef8e.png)
+![22-state-homework-demo-01](https://user-images.githubusercontent.com/86209350/179861967-e1779980-89f3-40f5-b5dd-14d4a5dd24f2.gif)
+
 
 The following animation shows how the user can select a category, choose a product, view details about it on the product page, and add and remove it from their shopping cart:
 
-![full stack resume2](https://user-images.githubusercontent.com/86209350/179861678-d1e56d0d-23e3-4315-83e1-898d66fe1699.png)
+![22-state-homework-demo-02](https://user-images.githubusercontent.com/86209350/179861982-adff24ca-16ac-4dd1-97ef-6011ced9ad42.gif)
 
 Finally, the user can checkout by going to their shopping cart, as shown in the following animation:
 
-![22-state-homework-demo-03](https://user-images.githubusercontent.com/86209350/179861700-be0504f6-4e58-42c8-8039-dbd0567db813.gif)
+![22-state-homework-demo-03](https://user-images.githubusercontent.com/86209350/179861993-d825b41c-dab3-4b55-a69a-6c9b3c86de3d.gif)
+
