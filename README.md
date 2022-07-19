@@ -1,6 +1,7 @@
 # Redux-Store
 
 [Redux-Store Link App](https://damp-taiga-12760.herokuapp.com/)
+
 You’ll enhance an existing e-commerce platform called Redux-Store. To do this, you’ll centralize all of the application's data in state globally to make it easier to share state across the entire application. You’ll also create a shopping cart for the application, add offline functionality, and process secure online payments with a service called Stripe.
 
 # User Story 
